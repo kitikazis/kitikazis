@@ -8,6 +8,7 @@ Soy estudiante de Ingenieria de Software , actualmente a mitad de carrera. Estoy
 - 🌱 Actualmente estoy aprendiendo...
   - Nest.js
   - Angular
+  - Desarrollo Movil
 - 👯 Estoy deseando colaborar en proyectos de código abierto.
 - ✔Pregúntame cualquier cosa, estaré encantado de ayudarte.<br>
 - Tiempo libro de tecnologia,💜me encanta transmitir en Twitch, 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer libros de ciencia.
