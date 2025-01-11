@@ -53,7 +53,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <a href="https://www.tiktok.com/@kana_boon_kimi" >
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
-<a href="https://www.twitch.tv/valenwerle" >
+<a href="https://www.twitch.tv/luiskitikazisrsng" >
   <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
 <a href="https://www.youtube.com/@luiskitikazis">
