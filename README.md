@@ -13,6 +13,7 @@ Soy estudiante de ingeniería informática, actualmente a mitad de carrera. Esto
 - Tiempo libro de tecnologia,💜me encanta transmitir en Twitch, 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer libros de ciencia.
 - 👾 Además, creo contenido sobre programación/tecnología en mis redes sociales, ¡así que no dudes en visitar mi perfil!
 - 📫 Contáctame en: <a href="luiskitikazis2@gmail.com">luiskitikazis2@gmail.com</a>
+- 👾 Mi pagina en: <a href="https://yamirdevportafolio.web.app/">Mi Portafolio</a>
 
 ## Mis habilidades incluyen
 
