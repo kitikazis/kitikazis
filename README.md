@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de  mí***
 
-Soy estudiante de ingeniería informática, actualmente a mitad de carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como desarrollador de software en una empresa que crea sistemas para carpintería. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
+Soy estudiante de Ingenieria de Software , actualmente a mitad de carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como desarrollador de software en una empresa que crea sistemas para carpintería. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
 - 🌱 Actualmente estoy aprendiendo...
   - Nest.js
   - Angular
