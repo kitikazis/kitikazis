@@ -2,21 +2,21 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de  mí***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
+Soy estudiante de ingeniería informática, actualmente a mitad de carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como desarrollador de software en una empresa que crea sistemas para carpintería. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
+- 🌱 Actualmente estoy aprendiendo...
   - Nest.js
   - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="luiskitikazis2@gmail.com">luiskitikazis2@gmail.com</a>
+- 👯 Estoy deseando colaborar en proyectos de código abierto.
+- ✔Pregúntame cualquier cosa, estaré encantado de ayudarte.<br>
+- Tiempo libro de tecnologia,💜me encanta transmitir en Twitch, 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer libros de ciencia.
+- 👾 Además, creo contenido sobre programación/tecnología en mis redes sociales, ¡así que no dudes en visitar mi perfil!
+- 📫 Contáctame en: <a href="luiskitikazis2@gmail.com">luiskitikazis2@gmail.com</a>
 
-## My Skills Include
+## Mis habilidades incluyen
 
-<h4> Languages </h4>
+<h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -32,7 +32,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 </span>
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras herramientas y tecnologias </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
@@ -45,7 +45,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 </span>
 
-## Check out my Social Media
+## Visita mis redes sociales
 
 <a href= "https://www.instagram.com/kitikaziss/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -60,7 +60,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 
-<h2>Github stats:</h2> 
+<h2>Estadísticas  de GitHub:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=kitikazis&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/kitikazis)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=kitikazis&theme=material-palenight)](https://github.com/kitikazis)
