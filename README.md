@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de  mí***
 
-Soy estudiante de Ingenieria de Software , actualmente a mitad de carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como desarrollador de software en una empresa que crea sistemas para carpintería. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
+ Ingenieria de Software , actualmente en proyectos personales. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como desarrollador de software en una empresa que crea sistemas. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
 - 🌱 Actualmente estoy aprendiendo...
   - Nest.js
   - Angular
@@ -14,7 +14,7 @@ Soy estudiante de Ingenieria de Software , actualmente a mitad de carrera. Estoy
 - Tiempo libro de tecnologia, 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer libros de ciencia.
 - 👾 Además, creo contenido sobre programación/tecnología en mis redes sociales, ¡así que no dudes en visitar mi perfil!
 - 📫 Contáctame en: <a href="luiskitikazis2@gmail.com">luiskitikazis2@gmail.com</a>
-- 👾 Mi pagina en: <a href="https://yamirdevportafolio.web.app/">Mi Portafolio</a>
+- 👾 Mi pagina en: <a href="https://yamirdevportafolio.web.app/">Pagina Web</a>
 
 ## Mis habilidades incluyen
 
