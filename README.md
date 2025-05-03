@@ -14,7 +14,7 @@
 - Tiempo libro de tecnologia, 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer libros de ciencia.
 - 👾 Además, creo contenido sobre programación/tecnología en mis redes sociales, ¡así que no dudes en visitar mi perfil!
 - 📫 Contáctame en: <a href="luiskitikazis2@gmail.com">luiskitikazis2@gmail.com</a>
-- 👾 Mi pagina en: <a href="https://yamirdevportafolio.web.app/">Pagina Web</a>
+- 👾 Mi pagina en: <a href="https://yaamirdevportafolio.web.app/">Pagina Web</a>
 
 ## Mis habilidades incluyen
 
