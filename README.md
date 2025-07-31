@@ -7,7 +7,9 @@
  Ingenieria de Software , actualmente en proyectos personales. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
 - 🌱 Actualmente estoy aprendiendo...
   - Nest.js
-  - Angular
+  - Scrum
+  - Django
+  - React
   - Desarrollo Movil
 - 👯 Estoy deseando colaborar en proyectos de código abierto.
 - ✔Pregúntame cualquier cosa, estaré encantado de ayudarte.<br>
