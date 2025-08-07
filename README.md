@@ -4,7 +4,20 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de  mí***
 
- Ingenieria de Software , actualmente en proyectos personales. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
+Soy Yamir, ingeniero de sistemas y estudiante de Filosofía. Me muevo entre el mundo del software y las grandes preguntas. 
+
+Trabajo con herramientas como Django, Laravel, NestJS, React, Tailwind y más. Domino bases de datos, frameworks, control de versiones y metodologías ágiles como Scrum y XP. Pero también me detengo a cuestionar el propósito, la ética y el impacto de lo que construimos en este mundo hiperconectado.
+
+Fusiono lo técnico con lo filosófico, lo práctico con lo conceptual. Porque para mí, la mejor arquitectura no es solo la que escala… sino la que tiene sentido.
+
+En mi tiempo libre:
+
+- 👨‍💻 Ingeniero de sistemas en acción.
+- 📚 Estudiante de filosofía por vocación.
+- 💡 Construyo sistemas útiles y pienso en su sentido.
+- 🛠️ Django, React, Laravel, NestJS & más.
+
+"Pienso, luego deployo."
  ### 🛠️ Tecnologías & Herramientas que uso
 
 - 💻 Frontend: `React.js`, `TailwindCSS`, `Ant Design`
