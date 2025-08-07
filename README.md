@@ -9,8 +9,8 @@ Soy Yamir, ingeniero de sistemas y estudiante de Filosofía. Me muevo entre el m
 En mi tiempo libre:
 
 - 👨‍💻 Ingeniero de sistemas en acción.
-- 📚 Estudiante de filosofía por vocación.
-- 💡 Construyo sistemas útiles y pienso en su sentido.
+- 📚 Estudiante de filosofía.
+- 💬 Participo en debates sobre ética y sociedad
 - 🛠️ Django, React, Laravel, NestJS & más.
 
 "Pienso, luego deployo."
