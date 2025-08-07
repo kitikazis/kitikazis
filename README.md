@@ -4,18 +4,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de  mí***
 
----
-
-### 🧠 Acerca de mí
-
-Soy estudiante de **Ingeniería de Sistemas** en la **UCV** y egresado técnico de **SENATI** en **Desarrollo de Software**. Actualmente vengo trabajando en proyectos personales, mini proyectos colaborativos y prototipos web como parte de mi formación profesional. Tengo una fuerte base en **Scrum**, desarrollo ágil y control de versiones con **Git/GitHub**.  
-
-💡 Mi enfoque: construir soluciones que sean útiles, sostenibles y creativas.  
-🔧 Mi stack se va expandiendo cada semana. Soy full motivación, nada de código muerto.  
-
----
-
-### 🛠️ Tecnologías & Herramientas que uso
+ Ingenieria de Software , actualmente en proyectos personales. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
+ ### 🛠️ Tecnologías & Herramientas que uso
 
 - 💻 Frontend: `React.js`, `TailwindCSS`, `Ant Design`
 - ⚙️ Backend: `Django`, `Laravel`, `NestJS`
@@ -34,36 +24,12 @@ Soy estudiante de **Ingeniería de Sistemas** en la **UCV** y egresado técnico 
 - 🌐 Publicación de sitios con `GitHub Pages`, `Firebase Hosting`
 
 ---
-
-### 👨‍👩‍👧‍👦 Proyectos Grupales
-
-- `Login Laravel`: sistema de autenticación con validaciones, SQLite y diseño responsivo.
-- `Mini Calculadora de Edad`: app web colaborativa con Laravel backend + Scrum + GitHub Pages.
-- `Grupo4-Ejercicio`: mini proyecto CRUD con Django, Scrum y CI.
-
----
-
-### 🎮 Más de mí
-
-- Me encanta **jugar videojuegos**, **escuchar música** y **leer libros de ciencia** en mis tiempos libres.
-- Siempre estoy buscando formas de **optimizar procesos** y **automatizar tareas**.
-- Defensor del cereal primero 🥣. Y sí, también tengo posturas filosóficas para debates absurdos.
-
----
-
 ### 🔗 Encuéntrame en:
 
 - 📧 Email: [luiskitikazis2@gmail.com](mailto:luiskitikazis2@gmail.com)
 - 🌐 Portfolio: [yaamirdevportafolio.web.app](https://yaamirdevportafolio.web.app/)
 - 🐙 GitHub: [@Yamir](https://github.com/Yamir)  
 - 💬 Linkedin (¡pendiente de conectar!)
-
----
-
-> *"La tecnología no es magia, pero bien usada, es lo más cercano que tenemos a ella."* ⚡
-
----
-
 ## Mis habilidades incluyen
 
 <h4> Lenguajes </h4>
