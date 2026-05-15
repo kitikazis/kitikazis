@@ -2,26 +2,26 @@
 <!--  -->
 <img align="right" width=400px alt="Unicorn" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de  mí***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
-Soy Yamir, ingeniero de sistemas y estudiante de Software .
+Soy Yamir, ingeniero de sistemas y estudiante de Software.
 
 En mi tiempo libre:
 
 - 👨‍💻 Ingeniero de sistemas en acción.
-
 - 🛠️ Angular, React, Laravel, NestJS & más.
 
 "Pienso, luego deployo."
 
 ### 🛠️ Tecnologías & Herramientas que uso
 
-- 💻 Frontend: `React.js`, `TypeScript`, `TailwindCSS`, `Angular` , ` 
+- 💻 Frontend: `React.js`, `TypeScript`, `Angular`, `TailwindCSS`, `SCSS`, `Ant Design`
 - ⚙️ Backend: `Django`, `Laravel`, `NestJS`, `Express`
+- 🗄️ Base de datos: `MySQL`, `SQLite`, `PostgreSQL`, `MongoDB`
+- 🐳 DevOps: `Docker`, `Docker Compose`
 - 🎵 APIs: `Spotify Web API`
 - 🔃 Metodologías Ágiles: `Scrum`, `Extreme Programming (XP)`
 - 🔄 Control de versiones: `Git`, `GitHub`, `CI/CD`
-- 🧪 Base de datos: `MySQL`, `SQLite`, `PostgreSQL` , `MongoDB`
 - 🛠️ Otros: `Figma`, `Trello`, `VS Code`, `Postman`
 
 ---
@@ -30,6 +30,9 @@ En mi tiempo libre:
 
 - 🎵 **Spotify Search App** — Aplicación FullStack con React + TypeScript y Node.js que permite buscar canciones usando la Web API de Spotify.
   - [Frontend](https://github.com/kitikazis/spotify-search-frontend) · [Backend](https://github.com/kitikazis/spotify-proxy-backend)
+
+- 🐱 **Kafka Cats App** — Aplicación FullStack para gestión de gatos con Angular, NestJS, MongoDB y Docker.
+  - [Frontend](https://github.com/kitikazis/kafka-cats-frontend) · [Backend](https://github.com/kitikazis/kafka-cats-backend)
 
 ---
 
@@ -47,7 +50,7 @@ En mi tiempo libre:
 
 - 📧 Email: [luiskitikazis2@gmail.com](mailto:luiskitikazis2@gmail.com)
 - 🌐 Portfolio: [yaamirdevportafolio.web.app](https://yaamirdevportafolio.web.app/)
-- 🐙 GitHub: [@Yamir](https://github.com/Yamir)  
+- 🐙 GitHub: [@Yamir](https://github.com/Yamir)
 - 💬 Linkedin (¡pendiente de conectar!)
 
 ## Mis habilidades incluyen
@@ -76,6 +79,8 @@ En mi tiempo libre:
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </span>
 
 ## Visita mis redes sociales
