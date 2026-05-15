@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de  mí***
 
-Soy Yamir, ingeniero de sistemas y estudiante de Filosofía. Me muevo entre el mundo del software y las grandes preguntas. 
+Soy Yamir, ingeniero de sistemas y estudiante de Software .
 
 En mi tiempo libre:
 
