@@ -29,7 +29,7 @@ En mi tiempo libre:
 ### 🚀 Proyectos destacados
 
 - 🎵 **Spotify Search App** — Aplicación FullStack con React + TypeScript y Node.js que permite buscar canciones usando la Web API de Spotify.
-  - [Frontend](https://github.com/kitikazis/spotify-search-frontend) · [Backend](https://github.com/kitikazis/spotify-proxy-api)
+  - [Frontend](https://github.com/kitikazis/spotify-search-frontend) · [Backend](https://github.com/kitikazis/spotify-proxy-backend)
 
 ---
 
